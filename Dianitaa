@@ -15,7 +15,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 global.owner = [
 ['5493751372455', 'Dianita-GataBot 🌻🐈', true],
 ['5493751509176', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
-; [''], [], [''], ['']]
+ [''], [], [''], ['']]
 
 global.mods = [] 
 global.prems = []
